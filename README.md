@@ -1,2 +1,1 @@
-# VueTestnetBridgeEngineNext
-Advanced VueTestnetBridgeEngineNext project
+.
